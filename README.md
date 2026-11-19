@@ -1,7 +1,7 @@
 
 # Arduino 8x8 LED Matrix ❤️
 
-![Project Cover](project_cover.png)
+![Project Cover](project_cover.png.png)
 
 ## Project Description
 
